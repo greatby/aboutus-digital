@@ -12,13 +12,13 @@ const LandingPage = () => {
   return (
     <>
       <HeroVideo />
-      <Vision />
+      {/* <Vision />
       <WhoWeAre />
       <WhatWeDo />
       <OurApproach />
       <OurCommitment />
       <TheJourney />
-      <ContactInfo />
+      <ContactInfo /> */}
     </>
   );
 };
